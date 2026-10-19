@@ -37,7 +37,6 @@ More frameworks are on the way.
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
 <img src="https://img.shields.io/badge/TestNG-FF7F00?style=flat-square" alt="TestNG" />
 <img src="https://img.shields.io/badge/Allure-6E3BFF?style=flat-square" alt="Allure" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
 
 **Languages**<br/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -49,7 +48,6 @@ More frameworks are on the way.
 <img src="https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?style=flat-square&logo=bitbucket&logoColor=white" alt="Bitbucket Pipelines" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
 
 ### Contribution activity
 
